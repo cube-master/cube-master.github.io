@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## CDIE官网开发项目说明
 
-You can use the [editor on GitHub](https://github.com/cube-master/cube-master.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### 网站功能
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ - 专业信息介绍；
+ - 同学作品展示。
+ 
+ 暂不含复杂交互。
 
-### Markdown
+### 计划流程
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+|  | **1** | **2** | **3** | **4** |
+| :----: | :----: | :----: | :----: | :----: |
+| 阶段 | 招募 | 讨论 | 开发 | 上线 |
+| 计划用时 | 2天 | 1周 | 3周 | 1周 |
+| 阶段目标 | <ol><li>确定开发团队成员名单</li><li>团队全员对网站目的、项目流程等基础信息达成共识</li><li>统计成员相关技能水平和意愿</li></ol> | <ol><li>敲定代码方面技术栈</li><li>原型图</li><li>依据原型图和技术栈确定代码方面任务及分工</li><li>依据原型图确定平面设计方面任务及分工</li></ol> | <ol><li>本地网站开发完成</li></ol> | <ol><li>交由老师审核</li><li>购买域名，租服务器</li></ol> |
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cube-master/cube-master.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
