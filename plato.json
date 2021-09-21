@@ -21,42 +21,68 @@
       {
         "id":"tis",
         "name":"Tisamenus",
+        "symbolSize":20,
+        "x":-10,
+        "y":40,
         "category":1  
       },
       {
           "id":"pau",
           "name":"Pausanias包萨尼亚",
-          "category":3
+          "category":3,
+          "symbolSize":40,
+          "x":-100,
+          "y":0
       },
       {
           "id":"alc",
           "name":" Alcibiades阿尔基弼亚德",
-          "category":2
+          "category":2,
+          "symbolSize":10,
+          "x":100,
+          "y":150
+
       },
       {
           "id":"ari",
           "name":"Aristodemus阿里斯多兑谟",
-          "category":2
+          "category":2,
+          "symbolSize":10,
+          "x":120,
+          "y":200
       },
       {
           "id":"ery",
           "name":"Eryximachus鄂吕克锡马柯",
-          "category":2
+          "category":2,
+          "symbolSize":10,
+          "x":-100,
+          "y":40
       },
       {
           "id":"acu",
           "name":"Acumenus阿古梅诺",
-          "category":4
+          "category":4,
+          "symbolSize":5,
+          "x":-100,
+          "y":10
       },
       {
           "id":"pha",
           "name":"Phaedrus裴卓",
-          "category":2
+          "category":2,
+          "symbolSize":10,
+          "x":-150,
+          "y":30
       },
       {
           "id":"aris",
           "name":"Aristophanes阿里斯多芬",
-          "category":2
+          "category":2,
+          "symbolSize":10,
+          "x":-154,
+          "y":10
+
       }
     ],
     "links": [
