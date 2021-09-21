@@ -17,6 +17,46 @@
         "y":200,
         "value":100,
         "category":2
+      },
+      {
+        "id":"tis",
+        "name":"Tisamenus",
+        "category":1  
+      },
+      {
+          "id":"pau",
+          "name":"Pausanias包萨尼亚",
+          "category":3
+      },
+      {
+          "id":"alc",
+          "name":" Alcibiades阿尔基弼亚德",
+          "category":2
+      },
+      {
+          "id":"ari",
+          "name":"Aristodemus阿里斯多兑谟",
+          "category":2
+      },
+      {
+          "id":"ery",
+          "name":"Eryximachus鄂吕克锡马柯",
+          "category":2
+      },
+      {
+          "id":"acu",
+          "name":"Acumenus阿古梅诺",
+          "category":4
+      },
+      {
+          "id":"pha",
+          "name":"Phaedrus裴卓",
+          "category":2
+      },
+      {
+          "id":"aris",
+          "name":"Aristophanes阿里斯多芬",
+          "category":2
       }
     ],
     "links": [
@@ -25,7 +65,28 @@
           "target": "soc"
         },
         {
-        
+        "source":"acu",
+        "target":"ery"
+        },
+        {
+        "source":"aga",
+        "target":"alc"
+        },
+        {
+        "target":"pau",
+        "source":"aga"
+        },
+        {
+        "source":"tis",
+        "target":"aga"
+        },
+        {
+        "source":"aga",
+        "target":"pha"
+        },
+        {
+            "source":"aga",
+            "target":"aris"
         }
     ],
     "categories": [
@@ -37,6 +98,9 @@
         },
         {
           "name": "朋友"
+        },
+        {
+            "name":"爱者"
         }
     ]
 }
