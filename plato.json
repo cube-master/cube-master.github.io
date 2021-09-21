@@ -6,24 +6,23 @@
         "symbolSize": 60,
         "x": 0,
         "y": 0,
-        "value": 80,
         "category": 0
       },
       {
         "id":"soc",
         "name":"Socrates苏格拉底",
         "symbolSize":30,
-        "x":100,
-        "y":200,
-        "value":100,
+        "x":150,
+        "y":150,
+        "value":"Athens",
         "category":2
       },
       {
         "id":"tis",
         "name":"Tisamenus",
         "symbolSize":40,
-        "x":-10,
-        "y":40,
+        "x":0,
+        "y":-40,
         "category":1  
       },
       {
