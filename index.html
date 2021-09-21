@@ -24,7 +24,7 @@ var option;
 
 myChart.showLoading();
 
-$.getJSON('https://raw.githubusercontent.com/cube-master/cube-master.github.io/master/lesmiserables.json', function (graph) {
+$.getJSON('https://raw.githubusercontent.com/cube-master/cube-master.github.io/master/plato.json', function (graph) {
   myChart.hideLoading();
   graph.nodes.forEach(function (node) {
     node.label = {
