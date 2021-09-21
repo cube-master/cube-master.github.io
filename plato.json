@@ -4,7 +4,7 @@
         "id": "aga",
         "name": "Agathon阿伽通",
         "symbolSize": 60,
-        "x": -10,
+        "x": 0,
         "y": 0,
         "value": 80,
         "category": 0
@@ -12,7 +12,7 @@
       {
         "id":"soc",
         "name":"Socrates苏格拉底",
-        "symbolSize":40,
+        "symbolSize":30,
         "x":100,
         "y":200,
         "value":100,
@@ -21,7 +21,7 @@
       {
         "id":"tis",
         "name":"Tisamenus",
-        "symbolSize":20,
+        "symbolSize":40,
         "x":-10,
         "y":40,
         "category":1  
@@ -38,7 +38,7 @@
           "id":"alc",
           "name":" Alcibiades阿尔基弼亚德",
           "category":2,
-          "symbolSize":10,
+          "symbolSize":20,
           "x":100,
           "y":150
 
@@ -47,7 +47,7 @@
           "id":"ari",
           "name":"Aristodemus阿里斯多兑谟",
           "category":2,
-          "symbolSize":10,
+          "symbolSize":20,
           "x":120,
           "y":200
       },
@@ -55,7 +55,7 @@
           "id":"ery",
           "name":"Eryximachus鄂吕克锡马柯",
           "category":2,
-          "symbolSize":10,
+          "symbolSize":20,
           "x":-100,
           "y":40
       },
@@ -63,7 +63,7 @@
           "id":"acu",
           "name":"Acumenus阿古梅诺",
           "category":4,
-          "symbolSize":5,
+          "symbolSize":25,
           "x":-100,
           "y":10
       },
@@ -71,7 +71,7 @@
           "id":"pha",
           "name":"Phaedrus裴卓",
           "category":2,
-          "symbolSize":10,
+          "symbolSize":20,
           "x":-150,
           "y":30
       },
@@ -79,7 +79,7 @@
           "id":"aris",
           "name":"Aristophanes阿里斯多芬",
           "category":2,
-          "symbolSize":10,
+          "symbolSize":20,
           "x":-154,
           "y":10
 
